@@ -1,10 +1,14 @@
 # Personal Homepage CS5610
 
-**Author:** Swar Kewalia 
+**Author:** Swar Kewalia  
+
 **Class:** CS5610 
-**Class Link:** https://johnguerra.co/classes/webDevelopment_online_fall_2025/
-**Project Objective:** Implement a homepage using vanilla HTML5, CSS3 and ES6+, for recruiters to access my projects, education and experience in a professional manner.
-**Creative JS Feature:** Skill Bars (about page)
+
+**Class Link:** https://johnguerra.co/classes/webDevelopment_online_fall_2025/ 
+
+**Project Objective:** Implement a homepage using vanilla HTML5, CSS3 and ES6+, for recruiters to access my projects, education and experience in a professional manner.  
+
+**Creative JS Feature:** Skill Bars (about page)  
 
 ## Design Document
 [Design Document PDF](https://drive.google.com/file/d/1NiiGGekLWkiWkdzDet5b4ZiriWQ9EBuH/view?usp=sharing)
